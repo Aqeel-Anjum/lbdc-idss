@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lbdc-idss/static/css/main.2173f8ba.css",
+    "main.js": "/lbdc-idss/static/js/main.aeb77dc8.js",
+    "static/js/787.cb73d873.chunk.js": "/lbdc-idss/static/js/787.cb73d873.chunk.js",
+    "index.html": "/lbdc-idss/index.html",
+    "main.2173f8ba.css.map": "/lbdc-idss/static/css/main.2173f8ba.css.map",
+    "main.aeb77dc8.js.map": "/lbdc-idss/static/js/main.aeb77dc8.js.map",
+    "787.cb73d873.chunk.js.map": "/lbdc-idss/static/js/787.cb73d873.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2173f8ba.css",
+    "static/js/main.aeb77dc8.js"
+  ]
+}
